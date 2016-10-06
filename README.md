@@ -7,7 +7,7 @@ Character \t Friendly edges \t Hostile edges
 
 Some datasets are broken into chapters, look for lines beginning with one of:<br />
 %Scene or %Chapter or %Book<br />
-Some heading will also begin with a % so ignore those lines
+Some lines will also begin with a % so ignore those lines!
 
 Can have multiple edges based on appearances in different scenes/chapters.
 
