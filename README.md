@@ -18,5 +18,5 @@ Any value reported in my PhD thesis will be the value used from the final (and m
 https://curve.coventry.ac.uk/open/file/9bfc043d-497e-4217-82ab-e19963b53290/1/maccarroncomb.pdf
 
 
-If you require any of these datasets and I haven't added them to this repository please email me at:<br />
+If you require any of these datasets and I haven't added them to this repository yet please email me at:<br />
 padraig.maccarron@wolfson.ox.ac.uk
