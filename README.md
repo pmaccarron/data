@@ -9,7 +9,9 @@ Some datasets are broken into chapters, look for lines beginning with one of:<br
 %Scene or %Chapter or %Book<br />
 Some lines will also begin with a % so ignore those lines!
 
-Can have multiple edges based on appearances in different scenes/chapters.
+Can have multiple edges based on appearances in different scenes/chapters. <br />
+Can also have both hostile and friendly edges. <br/>
+Hostile links are generally defined as when two characters fight in the narrative. I started with "the Táin" and the protagonist Cúchulainn kills many characters but has no other interaction with them. I wanted some way to represent this as it is an interaction but it's very different from a standard social interaction. So in general if two characters hate each other and argue all the time they will still get a "friendly edge" and will only get a "hostile edge" if they physically fight or one kills the other. (So the word friendly here is a bit of a misnomer!)
 
 
 Note, the three datasets "Tain.tsv", "Beowulf.tsv" and "Iliad.tsv" contain the social network data for the three epics used in Mac Carron & Kenna (2012) EPL (Europhysics Letters) 99.2: 28002.<br />
