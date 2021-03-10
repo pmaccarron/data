@@ -16,11 +16,11 @@ Hostile links are generally defined as when two characters fight in the narrativ
 
 
 **Citations**<br />
-Please note that my last name is "Mac Carron" (or MacCarron) and not "Carron"!<br />
+Please note that my last name is "MacCarron" (or Mac Carron) and not "Carron"!<br />
 For the data for "Tain.tsv", "Beowulf.tsv" and "Iliad.tsv" please cite:<br />
-Mac Carron & Kenna (2012) EPL (Europhysics Letters) 99.2: 28002<br />
+MacCarron & Kenna (2012) EPL (Europhysics Letters) 99.2: 28002<br />
 For the data in the "icelanders" folder please cite:<br />
-Mac Carron & Kenna (2013) Eur. Phys. J. B, 86.10: 407<br />
+MacCarron & Kenna (2013) Eur. Phys. J. B, 86.10: 407<br />
 
 
 Note, the three datasets "Tain.tsv", "Beowulf.tsv" and "Iliad.tsv" have need updates slightly since the EPL (and I don't seem to have the earlier versions :/ ) so the network properties might not always match exactly. Any value reported in my PhD thesis will be the value used from the final (and most correct) dataset. The thesis can be accessed here:<br />
