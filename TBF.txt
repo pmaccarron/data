@@ -1,0 +1,30 @@
+Character	Gender	Friendly Links											Hostile Links	
+Ailill	M	Medb												
+Befind	F	Boand												
+Bicne	M	Loegaire												
+Boand	F													
+Conall Cernach	M	Bicne												
+F Son 1	M	Conall Cernach	F Son 2	Fraech	Fraech's Wife									
+F Son 2	M	Conall Cernach	F Son 3	Fraech	Fraech's Wife									
+F Son 3	M	Conall Cernach	F Son 1	Fraech	Fraech's Wife									
+Fergus	M	Fraech												
+Findabair	F	Ailill	Findabair's maid	Medb									Ailill	Medb
+Findabair's maid	F													
+Fraech	M	Ailill	Befind	Boand	Conall Cernach	Findabair	Fraech's Wife	Idath	Medb	Servant			Ailill	Medb
+Fraech's Wife	F	Conall Cernach											King	
+Gen-triages	M	Boand	Suan-triages											
+Gol-traiges	M	Boand	Gen-triages											
+herd-girl	F	Conall Cernach	Fraech											
+Idath	M	Befind												
+King	M												Fraech	
+Loegaire	M													
+Lothur	M	Fergus	Fraech											
+Maid	F	Ailill	Medb											
+Man of A&M's people	M	Fraech												
+Medb	F													
+Messenger	F	Fraech												
+Servant	M													
+Steward	M	Ailill	Fraech	Medb										
+Suan-triages	M	Boand	Gol-traiges											
+Watchman	M	Ailill	Medb											
+Woman who frequents the cows	F	Conall Cernach	Fraech											
